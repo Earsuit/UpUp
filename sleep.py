@@ -1,3 +1,5 @@
+# Code from André Laszlo, https://stackoverflow.com/questions/28478291/abortable-sleep-in-python
+
 from threading import Event
 
 class Sleep(object):
